@@ -1,5 +1,5 @@
 ### Hello
-I am currently thinking about and building a personal [memex](https://en.m.wikipedia.org/wiki/Memex). For details on how I'm going about it see [here](https://www.notion.so/Integrating-a-Personal-Memex-with-Keybase-79740269cbcf4f11b9674005b6cefdc9) and [here](https://smallproblems.substack.com/p/building-a-personal-memex-0b3). If you have references or pointers for something I should look into related to knowledge engineering and knowledge management then let me know over at [keybase.io/davidk01](https://keybase.io/davidk01).
+I am currently thinking about and building a personal [memex](https://en.m.wikipedia.org/wiki/Memex). For details on how I'm going about it see [here](https://www.notion.so/Integrating-a-Personal-Memex-with-Keybase-79740269cbcf4f11b9674005b6cefdc9) and [here](https://smallproblems.substack.com/p/building-a-personal-memex-0b3). If you have references or pointers for something I should look into related to knowledge engineering and knowledge management then let me know over at [keybase.io/davidk01](https://keybase.io/davidk01). I'm also available at a few other places on the web: https://linktr.ee/davidk01.
 <!--
 **davidk01/davidk01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
