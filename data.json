@@ -3,8 +3,11 @@
   "thinking": "I'm currently thinking about better ways of managing personal information and knowledge.",
   "doing": "I'm currently building a personal memex inspired by Vannevar Bush's essay 'As We May Think'.",
   "links": {
-    "description": "These are links that are verified to belong to me. The signature for each link can be verified with keybase to belong to keybase.io/davidk01.",
+    "description": "Places to find me on the web.",
     "links": [
+      {
+        "link": "https://app.mattermore.io/users/VXNlcjoyNTc"
+      },
       {
         "link": "https://github.com/davidk01"
       },
